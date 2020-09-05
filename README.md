@@ -1,2 +1,2 @@
 # kelompok6
-Final Project
+Final Project 2
